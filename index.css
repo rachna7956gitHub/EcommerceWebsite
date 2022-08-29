@@ -173,7 +173,7 @@ header style */
     display: flex;
     align-items: center;
     justify-content: center;
-    flex-wrap:nowrap;
+    flex-wrap:wrap;
 }
 #features .f-con {
     width: 250px;
